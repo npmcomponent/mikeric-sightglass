@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [mikeric/sightglass](http://github.com/mikeric/sightglass). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/mikeric-sightglass`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # sightglass
 
 Observable keypath engine. Facilitaties building your own composable keypaths by way of defining adapters. This component was originally extracted from the [Rivets.js](http://rivetsjs.com) data binding + templating library.
